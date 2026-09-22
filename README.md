@@ -39,3 +39,9 @@ curl -X POST localhost:5000/whatsapp/incoming \
 - [ ] LLM re-ranking and answer synthesis over retrieved passages
 - [ ] Firestore/tools for structured record lookup
 - [ ] Conversation persistence (Redis/Postgres) instead of memory
+
+## Support My Work
+
+If you find this project useful, consider supporting my work with a Bitcoin donation:
+
+`BC1Q6Q75K8ZJXVW7W02LMDPRPY6XX6QK4LZZ2RMVAY`
