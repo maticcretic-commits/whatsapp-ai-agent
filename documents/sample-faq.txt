@@ -1,0 +1,23 @@
+Acme Cloud Storage — Customer FAQ
+(Sample knowledge base for the WhatsApp agent demo. Fictional company.)
+
+What is Acme Cloud Storage?
+Acme Cloud Storage is a fictional file-hosting service used to demonstrate
+this WhatsApp agent. It lets you store, sync, and share files across devices.
+
+Pricing
+The Starter plan costs $9 per month and includes 100 GB of storage.
+The Business plan costs $29 per month and includes 2 TB of storage and
+priority support. Annual billing saves 20% on both plans.
+
+Refund policy
+We offer a 30-day money-back guarantee on all paid plans. To request a
+refund, contact support with your account email and order number.
+
+Support hours
+Our support team is available Monday to Friday, 9am to 6pm IST, via live
+chat and email. Business plan customers also get phone support.
+
+Data retention
+Deleted files are kept in the trash for 30 days before permanent deletion.
+You can restore them yourself at any time during that window.
