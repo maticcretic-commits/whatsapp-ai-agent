@@ -1,5 +1,10 @@
 # WhatsApp AI Agent
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/whatsapp-ai-agent?style=social)](https://github.com/maticcretic-commits/whatsapp-ai-agent/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/whatsapp-ai-agent)](https://github.com/maticcretic-commits/whatsapp-ai-agent/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/whatsapp-ai-agent)
+
+
 A portfolio practice project: a **WhatsApp knowledge-base agent** starter —
 the "$300 fixed" gig pattern (Twilio WhatsApp webhook, document ingestion,
 retrieval, human handoff).
